@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2? family= Bebas+Neue & display=swap');
+body{background-color:#A2A378}
+.titulo{ font-family: 'Bebas Neue', cursive;
+    font-size: 40px;
+    text-align: center;
+    color: red;
+    background-color: black;
+    
+}
+
+.titulo-usuario{
+    color: aqua;
+    font-family: 'Instrument Serif', serif;
+    font-size: 25px;
+}
+
+.usuarios{font-size: 18px;
+    color: #146C94;
+    font-family: cursive;
+    margin:20px;
+    border: 1px solid black;
+border-radius: 25px;}
+
+.btn{background-color: #394867;
+border-radius: 20px;}
+
+.tiempo{font-size: 15px;
+color: #454545;}

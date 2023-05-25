@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2? family= Instrument+Serif:ital@1 & display=swap');
+body{background-color: wheat;}
+.titulo{font-size: 40px;
+text-align: center;
+color:black;
+font-family: 'Instrument Serif', serif;}
+
+.contenedor-principal{display: flex;
+justify-content: center;}
+.paletas{list-style: none;
+justify-content: center;
+display: flex;}
+.paleta{font-family: 'Instrument Serif', serif;
+font-size: 35px;
+display: flex;}
+.uno{
+    background-color: #FFFFFF;
+width:85px;}
+.dos{text-align: center;
+    background-color: #000000;
+width: 85px;
+color: #FFFFFF}
+.tres{text-align: center;
+    background-color:#FF0000 ;
+width: 85px;
+color: white;}
+.cuatro{text-align: center;
+    color: white;
+    background-color: #800000;
+width: 85px;}
+.cinco{background-color: #FFFF00;
+width: 85px;}
+.seis{background-color: rgb(0, 255, 255);
+width: 85px;}
+.siete{background-color: rgb(0, 255, 0);
+width: 85px;}
+.ocho{color: white;
+    background-color: rgb(0, 0, 128);
+width: 85px;}
+.nueve{background-color: rgb(128, 0, 128);
+width: 85px;}
+.diez{background-color: rgb(0, 128, 128);
+width: 85px;}
+.once{background-color: #05BFDB;
+width: 85px;}
+.doce{background-color: #D21312;
+width: 85px;}
+.trece{color: white;
+    background-color: #070A52;
+width: 85px;}
+.catorce{color: white;
+    background-color: #212121;
+width: 85px;}
+.quince{background-color: #EEEEEE;
+width: 85px;}

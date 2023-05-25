@@ -1,0 +1,48 @@
+body{background-color: #FFB4B4}
+
+@import url('https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@1&display=swap');
+*{margin:0;
+padding:0;
+}
+.titulo-principal{
+    font-family: 'Instrument Serif', serif;
+    color:#19A7CE;
+font-size: 50px;
+text-align: center;}
+.movimientos-principal{
+    font-family:'Caveat',cursive;
+    color:#146C94;
+font-size: 40px;
+}
+
+.ingreso-principal{background-color: rgb(137, 233, 233);
+    font-family:'Abril Fatface',cursive;
+    color:#00FFCA;
+    font-size: 40px;
+    }
+    .cuota{background-color: rgb(90, 124, 238);
+      font-family: 'Indie Flower', cursive;
+    color:#7dbccf;
+    font-size:  40px;}
+    .nikee{background-color: rgb(40, 62, 90);
+   font-family: 'Chakra Petch', sans-serif;
+    color:#ADE4DB;
+    font-size:40px;}
+
+
+    .comidass{background-color: rgb(79, 64, 221);
+     font-family: 'Satisfy', cursive;
+     color:#569DAA;
+     font-size:40px;}
+   
+    .motos{background-color: rgb(57, 64, 119);
+        border: black;
+    
+    font-family: 'Bruno Ace SC', cursive;
+    color:#576CBC;
+     font-size: 40px;}
+    
+.ing{color: #0ab91c;
+font-size: 30px;}
+
+.fecha{font-size: 30px;}

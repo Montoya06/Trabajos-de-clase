@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0; 
+}
+.principal{
+    text-align: center;
+}
+.titulo{
+    font-size: 70px;
+    text-align: center;
+}
+.salteada{
+    width: 300px;
+    height: 300px;
+    margin-left: 40%;
+    border-radius:  50px;
+    display: flex;
+    justify-content: space-around;
+}
+.texto{
+    font-size: 40px;
+    text-align: center;
+    width: 850px;
+    height: px;
+}
+.titulo2{
+    font-size: 70px;
+}
+.lista{
+    list-style-type: none;
+    font-size: 30px;
+}
+.seguir{
+    font-size: 70px;
+}
+.lis{
+    font-size: 25px;
+    margin-left: 200px;
+    line-height: -60%;
+}

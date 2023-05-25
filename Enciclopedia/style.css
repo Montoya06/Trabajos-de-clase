@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css2? family= Instrument+Serif:ital@1 & display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Instrument Serif', serif;
+}
+
+.principal{
+    display: flex;
+    justify-content: center;
+}
+
+.articulo{
+    width: 600px;
+    height: 300px;
+}
+
+.texto{
+    font-size: 25px;
+    color: black;
+}
+
+.uno{
+    font-size: 70px;
+    text-align: center;
+}
+
+.foto{
+    width: 300px;
+    height: 250px;
+    border: 2px solid aqua;
+    margin-left: 15px;
+    
+}
+
+.segundo{
+    display: flex;
+    justify-content: center;
+}
+
+.dos{
+   font-size: 40px;
+   justify-content: center;
+   display: flex;
+}
+.seccion{
+    width: 600px;
+    height: 300px;
+    border-top: 40px;
+}
+.fot{
+    width: 300px;
+    height: 250px;
+    border: 3px solid aqua;
+    margin-left: 15px;
+}
+
+.tres{
+    font-size: 40px;
+    justify-content:center;
+    display: flex;
+}
+.texto{
+    width: 600px;
+    height: 300px;
+    border-top: 40px;
+}
+
+.tu{
+    width: 300px;
+    height: 250px;
+    border: 3px solid aqua;
+    margin-left: 60%;
+    margin-top: -30%;
+    
+}
+.img2{
+    
+}
+}
+/* .fot{
+    width: 300px;
+    height: 250px;
+    border: 2px solid aqua;
+    margin-top: 150px;
+    margin-right:500px;
+    margin-left:150px;
+}
+
+.texto{
+    font-size: 25px;
+    text-align: justify;
+    width: 400px;
+    height: 400px;
+
+}
+
+
+.principal{
+    display: flex;
+    text-align: justify;
+}
+.titulos{
+    display: flex;
+text-align: center;
+}
+.segundo{
+    display: flex;
+    text-align: justify;
+    width: 400px;
+height: 400px;
+}
+
+.seccion2{
+    text-align: justify;
+    width: 400px;
+height: 400px;
+}
+.ft{
+    width: 300px;
+    height: 250px;
+    border: 2px solid aqua;
+    margin-top: -8px;
+    margin-right:500px;
+    margin-left:-300px;
+} */

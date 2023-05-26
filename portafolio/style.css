@@ -1,0 +1,278 @@
+ @import url('https://fonts.googleapis.com/css2?family=Foldit:wght@300&display=swap');
+ @import url('https://fonts.googleapis.com/css2?family=Berkshire+Swash&display=swap');
+
+
+ * {
+     margin: 0;
+     padding: 0;
+     font-family: 'Berkshire Swash', cursive;
+ }
+
+ .texto {
+     display: flex;
+     justify-content: end;
+     color: #1F8A70;
+     border-right: none;
+     box-shadow: 0 0 50px #1F8A70;
+
+ }
+
+ .columna {
+     margin-left: 33px;
+     list-style: none;
+     font-size: 26px;
+     margin: 30px;
+ }
+
+ .dos ul li a {
+     color: #1F8A70;
+     text-decoration: none;
+ }
+
+ .dos ul li a:hover {
+     background-color: rgb(17, 132, 185);
+ }
+
+ .dos {
+     position: fixed;
+     z-index: 1000;
+     top: 0;
+     width: 100%;
+     max-width: 10000px;
+     background-color: white;
+ }
+
+ .color {
+     border-radius: 20px;
+     background: #3C6255;
+     color: white;
+     width: 180px;
+     margin-left: 30px;
+     height: 40px;
+     margin: 30px;
+     font-size: 26px;
+ }
+
+ .saludo {
+     margin-left: 50px;
+     margin: 150px;
+     font-size: 40px;
+ }
+
+ .presentacion {
+     margin: 30px;
+ }
+
+ .titulo {
+     color: #1F8A70;
+     margin: 40px;
+ }
+
+ .profesion {
+     font-size: 30px;
+     margin: 40px;
+ }
+
+ .esto {
+     border-radius: 25px;
+     font-size: 25px;
+     width: 200px;
+     height: 35px;
+     background: #3C6255;
+     color: white;
+     display: flex;
+     margin: 30px;
+     width: 170px;
+     height: 50px;
+     padding: 10px;
+ }
+
+
+ .foto {
+     width: 600px;
+     height: 500px;
+     margin-left: 900px;
+     margin-top: -250px;
+     box-shadow: 0 0 50px black;
+ }
+
+ .conocimiento {
+     text-align: center;
+     font-size: 30px;
+     background-color: #7ae7c1dc;
+ }
+
+ .ttl {
+     margin-top: 30px;
+ }
+
+ .descp {
+     margin-top: 40px;
+ }
+
+ .html {
+     width: 264px;
+     height: 331px;
+     margin-right: 5px;
+     margin-left: 300px;
+     margin-top: 40px;
+     border-radius: 10px;
+ }
+
+ .css {
+     width: 300px;
+     margin-right: 300px;
+     border-radius: 10px;
+     border-top: -30px;
+ }
+
+ .sas {
+     width: 300px;
+     margin-left: -290px;
+     margin-top: -100px;
+ }
+
+ .js {
+     width: 200px;
+     border-top: px;
+
+ }
+
+ .contenedor-imagenes {
+     display: flex;
+     justify-content: center;
+ }
+
+ .imgcont {
+     width: 300px;
+     height: 300px;
+     margin-top: 20px;
+ }
+
+ .pagina3 {
+     justify-content: center;
+     font-size: 35px;
+     background-color: #41644A;
+     flex-direction: row;
+
+ }
+
+ .comilla {
+     font-size: 300px;
+     margin-left: 45%;
+ }
+
+ .escriba {
+     margin-left: 40%;
+     margin-top: -10%;
+ }
+
+ .pagina4 {
+     text-align: center;
+     background-color: #7ae7c1dc;
+     font-size: 28px;
+ }
+
+ .pagina5 {
+     font-size: 30px;
+     margin-top: 30px;
+ }
+
+ .titulo {
+     margin-top: -36px;
+ }
+
+ .formulario {
+     margin-top: 100px;
+     display: flex;
+ }
+ input{
+    border-radius: 20px;
+ }
+ textarea {
+    border-radius: 20px;
+ }
+
+ .lo {
+     margin-top: -73px;
+     font-size: 30px;
+ }
+
+ .ap {
+     margin-top: -74px;
+     font-size: 30px;
+ }
+
+ .cr {
+     margin-top: -30px;
+     font-size: 30px;
+ }
+
+ .bt {
+     border-radius: 20px;
+     background: #3C6255;
+     color: white;
+     width: 180px;
+     height: 40px;
+     margin: 30px;
+     font-size: 26px;
+     margin-left: -13;
+ }
+
+ .oe {
+     font-size: 30px;
+ }
+
+ .contacto {
+     font-size: 30px;
+     margin-left: 30px;
+ }
+
+ .contact {
+     font-size: 25px;
+     margin-left: 30px;
+ }
+
+ .logo {
+     width: 45px;
+     height: 45px;
+     margin-left: 30px;
+     margin-top: 20px;
+     font-size: 50px;
+ }
+ .logos{
+    font-size: 30px;
+ }
+.editar{
+    background:#7ae7c1dc;
+}
+.pagina6 {
+    background: #7ae7c1dc;
+}
+.final{
+    display: flex;
+    font-size: 30px;
+    background: #3C6255;
+    margin-left:30px ;
+
+}
+.log{
+    
+}
+.u{
+    margin-left: 277px;
+}
+footer{
+    background-color:#1F8A70;
+}
+.h2{
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 20px;
+    font-size: 30px;
+}
+.redesdos{
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+}

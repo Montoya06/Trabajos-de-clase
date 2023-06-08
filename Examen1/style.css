@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Foldit:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Berkshire+Swash&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Berkshire Swash', cursive;
+
+}
+header{
+    background-color: black;
+    color: aliceblue;
+    height: 10vh;
+}
+nav{
+    padding: 0 5%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100%;
+}
+.uno{
+    display: flex;
+    align-items: center;
+}
+.help{
+    margin-left: 20px;
+}
+.submit{
+    background-color: transparent;
+    border-radius: 12px;
+    color: #ffff;
+    padding: 15px 20px;
+    border: 1px solid #ffff;
+    cursor: pointer;
+    font-size: 18px;
+}
+.sign-in{
+    padding: 10px 30px;
+    border-radius: 12px;
+    background-color:dodgerblue;
+    color: #ffff;
+    cursor: pointer;
+    font-size: 18px;
+    margin-left: 20px;
+}
+.buscar{
+    background-color:gainsboro;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+.buscatext{
+    font-size: 48px;
+    
+}
+.buscainput{
+    padding: 5px;
+    height: 50px;
+    width: 40%;
+    border-radius: 15px;
+    border: 2px solid #454545;
+}
+.grid{
+    width: 50vw;
+    margin: auto;
+    height: 60vh;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+.grid-item{
+    margin: 20px;
+    width: calc(50% - 40px);
+    display: flex;
+}
+.name{
+font-size: 22px;
+}
+.description{
+font-size: 16px;
+font-weight: 100;
+margin: 12px 0;
+}
+footer{
+    margin-top: 250px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin-left:  -0px;
+}
+footer a{
+    color: #ffff;
+}
+.cinco{
+    margin-right: 10px;
+}
+.seis{
+    margin-right: 10px;
+    text-decoration: none;
+    color: black;
+}
+.ocho{
+    margin-right: 10px;
+}
